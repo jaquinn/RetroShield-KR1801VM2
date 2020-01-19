@@ -11,5 +11,6 @@ RetroShield 1801VM2 is a hardware shield for Arduino Mega.
    M7856 DL-11W SLU as a Console     
    M7856 DL-11W SLU as a TU58 Interface (not yet proven to actually boot anything)  
       M9312 Terminator/ROM board to host ROMs from https://www.ak6dn.com/PDP-11/M9312/     
-* All hardware and software files are provided for you to study and play.
+* Schematic and the Arduino Sketch is provided for you to study and play.
 
+![Prototype RetroShield for KR1801VM2](Docs/KR1801VM2_prototype.jpg)
