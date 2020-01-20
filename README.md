@@ -13,4 +13,12 @@ RetroShield 1801VM2 is a hardware shield for Arduino Mega.
       M9312 Terminator/ROM board to host ROMs from https://www.ak6dn.com/PDP-11/M9312/     
 * Schematic and the Arduino Sketch is provided for you to study and play.
 
+Revision 1 RetroShield for KR1801VM2  
+
+![RetroShield Rev 1 for KR1801VM2](Docs/KR1801VM2_rev1_1.jpg)
+
+![RetroShield Rev 1 for KR1801VM2](Docs/KR1801VM2_rev1_2.jpg)
+
+Prototype RetroShield for KR1801VM2  
+
 ![Prototype RetroShield for KR1801VM2](Docs/KR1801VM2_prototype.jpg)
